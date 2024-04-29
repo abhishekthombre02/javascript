@@ -1,0 +1,11 @@
+Date() object returns current date
+
+-> getDay() getDate() getYear() getMonth() getHours() getMinutes() getSeconds()
+
+window.print() :- print current page
+
+Math.sqrt() :- square root of the number
+
+var number=10.21212121 
+number.toFixed(2)   :- convert a number into string upto 2 decimal places
+
