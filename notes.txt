@@ -9,3 +9,12 @@ Math.sqrt() :- square root of the number
 var number=10.21212121 
 number.toFixed(2)   :- convert a number into string upto 2 decimal places
 
+Leap year condition:
+var ans=(year%4==0) ? (year%100==0) : (year%400==0);
+
+ //create date of first january of current year
+    var date= new Date(2024,0,1);
+
+Math.ceil() : to find the next closest integer
+Math.floor() : to find the previous closest integer
+Math.random() : to generate number between 0.0000000... to 9.000000...
